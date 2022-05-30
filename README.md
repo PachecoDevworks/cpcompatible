@@ -1,4 +1,4 @@
 # cpcompatible
 
 
-Click to visit the website: https://pachecodevworks.github.io/cpcompatible/Nails.html
+Click or copy to visit the website: https://pachecodevworks.github.io/cpcompatible/Nails.html
